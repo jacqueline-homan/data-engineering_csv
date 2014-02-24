@@ -9,4 +9,5 @@ group :development do
   gem "pg"
   gem "rake"
   gem "activerecord"
+  gem "sinatra-activerecord"
 end
